@@ -92,7 +92,7 @@ YORUM: Sonuç olarak Bayes Sınıflandırıcıları ve Karar Ağaçları modelle
 
 ## ✍️ Authors
 
-- Müleyke Önal – [@your_github_username](https://github.com/your_github_username)  
+- Müleyke Önal
 - Cem Molla
 
 ---
